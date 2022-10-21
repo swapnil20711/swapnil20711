@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil20711&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil20711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil20711" alt="swapnil20711" /></a> </p>
-
 - 🌱 I’m currently learning **Kotlin,Jetpack Compose**
 
 - 💬 Ask me about **Android,Firebase,Java,Kotlin**
@@ -12,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swapnil-bhojwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-bhojwani" height="30" width="40" /></a>
-<a href="https://medium.com/swapnil20711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="swapnil20711" height="30" width="40" /></a>
+<a href="https://medium.com/@swapnil20711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapnil20711" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil20711&show_icons=true&locale=en" alt="swapnil20711" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil20711&" alt="swapnil20711" /></p>
-
