@@ -50,7 +50,3 @@
 | [Karobar Easy](https://bit.ly/karobar-easy) | Attendance app with QR Code & Text-to-Speech | 1K+, 4.8 ⭐ |
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil20711&show_icons=true&locale=en&layout=compact" alt="swapnil20711" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil20711&show_icons=true&locale=en" alt="swapnil20711" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil20711&" alt="swapnil20711" /></p>
