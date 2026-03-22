@@ -7,7 +7,7 @@
 - 🚀 Built features that increased **buy conversion from 30% to 60%** and boosted **web performance score from 10 to 50–60**
 - 📱 Engineered a **React Native ML library** achieving **25–30 FPS** for real-time gesture recognition & waste detection
 - 🏆 Recipient of the **STAN Excellence Award** for outstanding contribution to company growth
-- 🌱 Currently exploring **System Design, Web Performance & Blockchain integrations**
+- 🌱 Currently exploring **System Design, Web Performance & Jetpack Compose**
 - 💬 Ask me about **React Native, Android, Kotlin, Next.js, TypeScript, BLE/IoT, ML on Mobile**
 - 📫 Reach me at **swapnil.bhojwani@gmail.com**
 
