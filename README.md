@@ -8,16 +8,27 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Stanverse+Technologies;React+Native+%7C+Android+%7C+Next.js+Engineer;Building+stanshop.co+%E2%80%94+%E2%82%B910Cr%2B+GMV;ML+on+Mobile+%7C+BLE%2FIoT+%7C+Web+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Stanverse+Technologies;React+Native+%7C+Android+%7C+Next.js+Engineer;Building+stanshop.co+%E2%80%94+%E2%82%B910Cr%2B+GMV;ML+on+Mobile+%7C+BLE%2FIoT+%7C+Web+Performance;Portfolio+%E2%86%92+swapnil-bhojwani.vercel.app" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapnil20711&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil20711" />
+  <img src="https://komarev.com/ghpvc/?username=swapnil20711&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Bengaluru-India-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat&logo=handshake&logoColor=white" alt="open to collaboration" />
+</p>
+
+<p align="center">
+  <a href="https://swapnil-bhojwani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/swapnil-bhojwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@swapnil20711"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:swapnil.bhojwani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stanshop.co"><img src="https://img.shields.io/badge/stanshop.co-FF6B00?style=for-the-badge&logo=shopify&logoColor=white" alt="stanshop.co" /></a>
 </p>
 
 ---
+
+### 👨‍💻 About Me
 
 - 🏢 Currently working at **Stanverse Technologies** on [stanshop.co](https://stanshop.co) — ₹10Cr+ GMV platform
 - 🚀 Built features that increased **buy conversion from 30% to 60%** and boosted **web performance score from 10 to 50–60**
@@ -25,72 +36,130 @@
 - 🏆 Recipient of the **STAN Excellence Award** for outstanding contribution to company growth
 - 🌱 Currently exploring **System Design, Web Performance & Jetpack Compose**
 - 💬 Ask me about **React Native, Android, Kotlin, Next.js, TypeScript, BLE/IoT, ML on Mobile**
+- 🌐 Portfolio → **[swapnil-bhojwani.vercel.app](https://swapnil-bhojwani.vercel.app/)**
 - 📫 Reach me at **swapnil.bhojwani@gmail.com**
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swapnil-bhojwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-bhojwani" height="30" width="40" /></a>
-<a href="https://medium.com/@swapnil20711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swapnil20711" height="30" width="40" /></a>
+### 🛠️ Tech Stack
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,java,androidstudio,swift&theme=dark" alt="mobile stack" />
+</p>
+
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,html,css&theme=dark" alt="web stack" />
+</p>
+
+**Backend, Data & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,postman,git,github,figma,vscode&theme=dark" alt="tools" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
----
-
-<!-- ===== ANIMATED GITHUB STATS ===== -->
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swapnil20711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=swapnil20711&theme=tokyonight&hide_border=true" alt="streak" />
+  <img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnil20711&theme=tokyonight" alt="profile details" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil20711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swapnil20711&theme=tokyonight" alt="GitHub stats" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=swapnil20711&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<!-- Animated contribution activity line graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil20711&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-
-<!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnil20711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnil20711&theme=tokyonight" alt="top languages by repo" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swapnil20711&theme=tokyonight" alt="top languages by commits" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swapnil20711&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 </div>
 
-<!-- ===== SNAKE EATING CONTRIBUTIONS (needs the workflow below) ===== -->
+<!-- ===== CONTRIBUTION CALENDAR ===== -->
+<div align="center">
+  <img width="90%" src="https://ghchart.rshah.org/2ea44f/swapnil20711" alt="contribution chart" />
+</div>
+
+<!-- ===== SNAKE EATING CONTRIBUTIONS (generated by .github/workflows/snake.yml) ===== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/swapnil20711/swapnil20711/output/snake.svg" alt="snake animation" />
 </div>
 
 ---
 
-<h3 align="left">📱 Featured Work:</h3>
+### 📦 Featured Package — [expo-splitkit](https://www.npmjs.com/package/expo-splitkit)
 
-| Project | Description | Downloads |
-|---|---|---|
-| [Zurich Life](https://play.google.com/store/apps/details?id=com.zurich.lifeapp&hl=en_IN) | Production insurance app — built scalable UI components | 5K+ |
-| [Daan Patra](https://bit.ly/daan-patra) | Donation platform with real-time Firebase updates | 10K+ |
-| [Karobar Easy](https://bit.ly/karobar-easy) | Attendance app with QR Code & Text-to-Speech | 1K+, 4.8 ⭐ |
+<p>
+  <a href="https://www.npmjs.com/package/expo-splitkit"><img src="https://img.shields.io/npm/v/expo-splitkit?style=for-the-badge&logo=npm&color=CB3837" alt="npm version" /></a>
+  <a href="https://www.npmjs.com/package/expo-splitkit"><img src="https://img.shields.io/npm/dm/expo-splitkit?style=for-the-badge&logo=npm&color=CB3837" alt="npm downloads" /></a>
+  <a href="https://github.com/swapnil20711/Splitkit"><img src="https://img.shields.io/github/stars/swapnil20711/Splitkit?style=for-the-badge&logo=github&color=f9d71c" alt="GitHub stars" /></a>
+  <a href="https://github.com/swapnil20711/Splitkit/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/expo-splitkit?style=for-the-badge&color=2ea44f" alt="license" /></a>
+</p>
+
+**Deterministic A/B testing and feature flagging for Expo & React Native — no backend, no network calls, no SDK keys.**
+
+Splitkit buckets users locally with a MurmurHash3 hash of `userId:experimentKey`, so the same user always lands in the same variant — on every launch, on every device, without ever asking a server.
+
+- 🎯 **Deterministic** — pure hash-based bucketing; no randomness, no persisted assignment state
+- ✈️ **Offline-first** — assignments resolve synchronously at render time, works with the network off
+- 🪶 **Zero runtime dependencies** — the engine is a hash function and a weighted range check
+- 📲 **Native device IDs** — iOS `identifierForVendor`, Android `ANDROID_ID`, `localStorage` UUID on web
+- 🧩 **Typed payloads** — attach arbitrary config per variant and get it back type-safe
+- 📈 **Exposure tracking** — deduplicated callbacks you can wire to any analytics tool
+
+```bash
+npx expo install expo-splitkit
+```
+
+<p>
+  <a href="https://github.com/swapnil20711/Splitkit">
+    <img src="https://img.shields.io/badge/%E2%AD%90%20Star%20Splitkit%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star Splitkit on GitHub" />
+  </a>
+</p>
+
+> If deterministic, backend-free experimentation is useful to you, a ⭐ on [the repo](https://github.com/swapnil20711/Splitkit) genuinely helps others find it.
+
+---
+
+### 📱 Featured Work
+
+| Project | Description | Stack | Reach |
+|---|---|---|---|
+| [expo-splitkit](https://www.npmjs.com/package/expo-splitkit) | Deterministic A/B testing & feature flags for Expo/RN — offline, no backend | TypeScript · Expo Modules | 800+ downloads/mo |
+| [Zurich Life](https://play.google.com/store/apps/details?id=com.zurich.lifeapp&hl=en_IN) | Production insurance app — built scalable UI components | Android · Kotlin | 5K+ downloads |
+| [Daan Patra](https://bit.ly/daan-patra) | Donation platform with real-time Firebase updates | Android · Firebase | 10K+ downloads |
+| [Karobar Easy](https://bit.ly/karobar-easy) | Attendance app with QR Code & Text-to-Speech | Android · ML Kit | 1K+, 4.8 ⭐ |
+| [stanshop.co](https://stanshop.co) | Creator commerce platform — ₹10Cr+ GMV | Next.js · React Native | Production |
+| [Portfolio](https://swapnil-bhojwani.vercel.app/) | Personal site — projects, writing & contact | Next.js · Vercel | Live |
+
+---
+
+### ✍️ Writing
+
+<p>
+  <a href="https://medium.com/@swapnil20711">
+    <img src="https://img.shields.io/badge/Read%20my%20posts%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+<details>
+  <summary>💡 A little more about how I work</summary>
+
+  <br />
+
+  - **Performance first** — I profile before I optimise: frame timings on mobile, Lighthouse and bundle budgets on web.
+  - **Ship small, ship often** — feature flags and incremental rollouts over big-bang releases.
+  - **Native when it counts** — happy to drop into Kotlin/Swift when React Native hits its ceiling.
+  - **Currently learning** — System Design, Jetpack Compose, and squeezing more out of Core Web Vitals.
+
+</details>
 
 ---
 
