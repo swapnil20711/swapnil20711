@@ -36,7 +36,7 @@
 - 🏆 Recipient of the **STAN Excellence Award** for outstanding contribution to company growth
 - 🌱 Currently exploring **System Design, Web Performance & Jetpack Compose**
 - 💬 Ask me about **React Native, Android, Kotlin, Next.js, TypeScript, BLE/IoT, ML on Mobile**
-- 🌐 Portfolio → **[swapnil-bhojwani.vercel.app](https://swapnil-bhojwani.vercel.app/)**
+- 🌐 Portfolio → **[swapnilbhojwani.com](https://www.swapnilbhojwani.com/)**
 - 📫 Reach me at **swapnil.bhojwani@gmail.com**
 
 ---
