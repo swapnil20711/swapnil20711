@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Stanverse+Technologies;React+Native+%7C+Android+%7C+Next.js+Engineer;Building+stanshop.co+%E2%80%94+%E2%82%B910Cr%2B+GMV;ML+on+Mobile+%7C+BLE%2FIoT+%7C+Web+Performance;Portfolio+%E2%86%92+swapnil-bhojwani.vercel.app" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Software+Developer+%40+Stanverse+Technologies;React+Native+%7C+Android+%7C+Next.js+Engineer;Building+stanshop.co+%E2%80%94+%E2%82%B910Cr%2B+GMV;ML+on+Mobile+%7C+BLE%2FIoT+%7C+Web+Performance;Portfolio+%E2%86%92+swapnilbhojwani.com" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://swapnil-bhojwani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.swapnilbhojwani.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/swapnil-bhojwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@swapnil20711"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:swapnil.bhojwani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -36,7 +36,7 @@
 - 🏆 Recipient of the **STAN Excellence Award** for outstanding contribution to company growth
 - 🌱 Currently exploring **System Design, Web Performance & Jetpack Compose**
 - 💬 Ask me about **React Native, Android, Kotlin, Next.js, TypeScript, BLE/IoT, ML on Mobile**
-- 🌐 Portfolio → **[swapnil-bhojwani.vercel.app](https://swapnil-bhojwani.vercel.app/)**
+- 🌐 Portfolio → **[swapnilbhojwani.com](https://www.swapnilbhojwani.com/)**
 - 📫 Reach me at **swapnil.bhojwani@gmail.com**
 
 ---
@@ -87,7 +87,7 @@ npx expo install expo-splitkit
 | [Daan Patra](https://bit.ly/daan-patra) | Donation platform with real-time Firebase updates | Android · Firebase | 10K+ downloads |
 | [Karobar Easy](https://bit.ly/karobar-easy) | Attendance app with QR Code & Text-to-Speech | Android · ML Kit | 1K+, 4.8 ⭐ |
 | [stanshop.co](https://stanshop.co) | Creator commerce platform — ₹10Cr+ GMV | Next.js · React Native | Production |
-| [Portfolio](https://swapnil-bhojwani.vercel.app/) | Personal site — projects, writing & contact | Next.js · Vercel | Live |
+| [Portfolio](https://www.swapnilbhojwani.com/) | Personal site — projects, writing & contact | Next.js · Vercel | Live |
 
 ---
 
